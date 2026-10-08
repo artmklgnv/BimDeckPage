@@ -1,0 +1,66 @@
+{
+  "BimDeckAppRepo": {
+    "Versions": [
+      {
+        "Version": "1.0.6",
+        "CommandNameWithNamespace": "BimDeck.App.ExternalCommand",
+        "DllNameWithoutExt": "BimDeck.App",
+        "PluginUrisByRevitVersions": {
+          "2021": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R21.zip"
+          },
+          "2022": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R22.zip"
+          },
+          "2023": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R23.zip"
+          },
+          "2024": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R24.zip"
+          },
+          "2025": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R25.zip"
+          },
+          "2026": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R26.zip"
+          },
+          "2027": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.6/R27.zip"
+          }
+        }
+      }
+    ]
+  },
+  "BimDeckBootRepo": {
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "CommandNameWithNamespace": "BimDeck.Boot.ExternalCommand",
+        "DllNameWithoutExt": "BimDeck.Boot",
+        "PluginUrisByRevitVersions": {
+          "2021": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R21.zip"
+          },
+          "2022": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R22.zip"
+          },
+          "2023": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R23.zip"
+          },
+          "2024": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R24.zip"
+          },
+          "2025": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R25.zip"
+          },
+          "2026": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R26.zip"
+          },
+          "2027": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.0/R27.zip"
+          }
+        }
+      }
+    ]
+  }
+}
