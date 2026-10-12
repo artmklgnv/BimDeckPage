@@ -1,0 +1,53 @@
+{
+  "Guid": "299451c4-f703-454b-8abc-76979e0fbd44",
+  "RepoName": "Main plugin repo",
+  "RepoPlugins": [
+    {
+      "PluginGuid": "f53d9eef-0406-4f00-9dbd-6cfb3686e83a",
+      "PluginName": {
+        "ru": "ЦветоФильтр",
+        "en": "ColorFilter"
+      },
+      "Description": {
+        "ru": "Проверка доставки и запуска плагина через панель BimDeck (v0.0.1).",
+        "en": "BimDeck panel delivery and run check (v0.0.1)."
+      },
+      "Versions": [
+        {
+          "PluginGuid": "f53d9eef-0406-4f00-9dbd-6cfb3686e83a",
+          "VersionGuid": "ed8bb956-3598-02c3-ee25-11c40b4bdeb5",
+          "Version": "0.0.1",
+          "Description": {
+            "ru": "Проверка доставки и запуска плагина через панель BimDeck (v0.0.1).",
+            "en": "BimDeck panel delivery and run check (v0.0.1)."
+          },
+          "CommandNameWithNamespace": "BimDeck.ColorFilter.Commands.ColorFilterCommand",
+          "DllNameWithoutExt": "BimDeck.ColorFilter",
+          "PluginUrisByRevitVersions": {
+            "2021": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R21.zip"
+            },
+            "2022": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R22.zip"
+            },
+            "2023": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R23.zip"
+            },
+            "2024": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R24.zip"
+            },
+            "2025": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R25.zip"
+            },
+            "2026": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R26.zip"
+            },
+            "2027": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.0.1/R27.zip"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
