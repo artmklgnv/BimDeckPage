@@ -1,0 +1,60 @@
+{
+  "Guid": "299451c4-f703-454b-8abc-76979e0fbd44",
+  "RepoName": "Main plugin repo",
+  "RepoPlugins": [
+    {
+      "PluginGuid": "f53d9eef-0406-4f00-9dbd-6cfb3686e83a",
+      "PluginName": {
+        "ru": "ЦветоФильтр",
+        "en": "ColorFilter"
+      },
+      "Description": {
+        "ru": "Покраска элементов по RAL: общий параметр, фильтр вида и переопределение графики по выбранным аспектам (сечение и проекция, линии и штриховки); выбранный параметр и набор аспектов запоминаются и восстанавливаются, кнопка-свотч открывает сетку всех цветов RAL для быстрого выбора, палитра надёжно открывается в каждой сессии окна и сообщает об ошибке в карточке цвета, а после выбора элемента окно возвращается на передний план, не заменяя выбранный элемент предвыделением (v0.7.3).",
+        "en": "RAL colour coding: shared parameter, view filter, and graphic overrides by the checked aspects (section and projection, lines and fills); the chosen parameter and aspect set are remembered and restored, a swatch button opens a grid of every RAL colour for a quick pick, the palette opens reliably in every window session and reports a failed open in the colour card, and after a pick the window returns to the front without replacing the picked element with the current preselection (v0.7.3)."
+      },
+      "Versions": [
+        {
+          "PluginGuid": "f53d9eef-0406-4f00-9dbd-6cfb3686e83a",
+          "VersionGuid": "c3eac417-4b0c-4ba7-80f9-04ccbd67462b",
+          "Version": "0.7.3",
+          "Description": {
+            "ru": "Покраска элементов по RAL: общий параметр, фильтр вида и переопределение графики по выбранным аспектам (сечение и проекция, линии и штриховки); выбранный параметр и набор аспектов запоминаются и восстанавливаются, кнопка-свотч открывает сетку всех цветов RAL для быстрого выбора, палитра надёжно открывается в каждой сессии окна и сообщает об ошибке в карточке цвета, а после выбора элемента окно возвращается на передний план, не заменяя выбранный элемент предвыделением (v0.7.3).",
+            "en": "RAL colour coding: shared parameter, view filter, and graphic overrides by the checked aspects (section and projection, lines and fills); the chosen parameter and aspect set are remembered and restored, a swatch button opens a grid of every RAL colour for a quick pick, the palette opens reliably in every window session and reports a failed open in the colour card, and after a pick the window returns to the front without replacing the picked element with the current preselection (v0.7.3)."
+          },
+          "CommandNameWithNamespace": "BimDeck.ColorFilter.Commands.ColorFilterCommand",
+          "DllNameWithoutExt": "BimDeck.ColorFilter",
+          "PluginUrisByRevitVersions": {
+            "2021": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R21.zip",
+              "ZipHash": "c065517e9e01519a219e9a364feec1e9c5bd7d5110fa03220cf890030d12d4e5"
+            },
+            "2022": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R22.zip",
+              "ZipHash": "abcfb68192456f92364374f27a4981d8123f31d4e6f66c258b1b90328c35c69a"
+            },
+            "2023": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R23.zip",
+              "ZipHash": "4c3514a952a2508009ef326a0566cfe7fa95db856571ce256da50f72ee4a9613"
+            },
+            "2024": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R24.zip",
+              "ZipHash": "1481a0ff95c33ec0d0da2a081d90060f7e172a3189178251b858ebe7fa198c62"
+            },
+            "2025": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R25.zip",
+              "ZipHash": "168cc1cf7c87b5a7a9068f119149bcd5f0b08b82bde60104acbf2d7a6967d649"
+            },
+            "2026": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R26.zip",
+              "ZipHash": "29acbbf8f14f6e58eb7f2ebf434c9713d98c2a4b29c23c86496bb3d9918b0a13"
+            },
+            "2027": {
+              "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.ColorFilter/0.7.3/R27.zip",
+              "ZipHash": "77ef5a8e2d50f3ce1a1db2c6abe7c90b960b3e973be22cddef31318cee2db581"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

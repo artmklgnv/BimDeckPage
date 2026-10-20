@@ -1,0 +1,80 @@
+{
+  "BimDeckAppRepo": {
+    "Versions": [
+      {
+        "Version": "1.0.27",
+        "CommandNameWithNamespace": "BimDeck.App.ExternalCommand",
+        "DllNameWithoutExt": "BimDeck.App",
+        "PluginUrisByRevitVersions": {
+          "2021": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R21.zip",
+            "ZipHash": "ce1fd624596b196925f5511b4205a1d761e9363fb5c00bbd5d4f09f1281c3838"
+          },
+          "2022": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R22.zip",
+            "ZipHash": "8232fe88e6fb7709be85e3bae659f06105e5bedde85771614a2bc1e738fb951c"
+          },
+          "2023": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R23.zip",
+            "ZipHash": "534bdd01b5cb6554a7d0a990d1872719ceb1274b09b9632331ed7ab1c0bf5761"
+          },
+          "2024": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R24.zip",
+            "ZipHash": "cdcd667d804070797fa5f5f6d770925eed2338b1a1a9cf9ba6ae6b6da0fc4cab"
+          },
+          "2025": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R25.zip",
+            "ZipHash": "0da70c576771ba297fcf1bee964ae94852174635e2c05adde77e4054805a9bcb"
+          },
+          "2026": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R26.zip",
+            "ZipHash": "68134a6587285472dd3ca6b7c12292495cfc71ae27b27cf055dcab010edecaa8"
+          },
+          "2027": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.App/1.0.27/R27.zip",
+            "ZipHash": "2755b692ffb9179d164ae94307cb96c9d071423b3f37d2b594608d8d4696be0b"
+          }
+        }
+      }
+    ]
+  },
+  "BimDeckBootRepo": {
+    "Versions": [
+      {
+        "Version": "1.0.4",
+        "CommandNameWithNamespace": "BimDeck.Boot.ExternalCommand",
+        "DllNameWithoutExt": "BimDeck.Boot",
+        "PluginUrisByRevitVersions": {
+          "2021": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R21.zip",
+            "ZipHash": "88fade80e798a15c52c38297e637a33887ad0bfcb6a83b596af242c9b96e226d"
+          },
+          "2022": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R22.zip",
+            "ZipHash": "c4d439e17fd41a8248498683bbe5cb707ccfeabee54f32cf184d6ecc930a3095"
+          },
+          "2023": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R23.zip",
+            "ZipHash": "b2096e2eb6c6e4ced1e176e022c887637b4a32ffe9cd5d27505c5a994256cf0d"
+          },
+          "2024": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R24.zip",
+            "ZipHash": "dabb020e41aef6df684ee31611a1535d54743880c05e90ef09c7cef25bfbd459"
+          },
+          "2025": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R25.zip",
+            "ZipHash": "6db91cbc4b4ff0030f670f10675736bbecbb6fa0d4784628dc875b749a7463e1"
+          },
+          "2026": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R26.zip",
+            "ZipHash": "68c2ea1b82fcc85f1c59bd644aa38443509eb92a9cf53346b7dfcc912c77cefc"
+          },
+          "2027": {
+            "ZipArchiveUri": "https://bimdeck.244400.xyz/files/BimDeck.Boot/1.0.4/R27.zip",
+            "ZipHash": "69e66d3adb00db393805b9e7babff1f957b9f961bd0846fcf6171d0d355eee7b"
+          }
+        }
+      }
+    ]
+  }
+}
